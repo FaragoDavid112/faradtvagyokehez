@@ -1,0 +1,18 @@
+body {
+   background-color: rgb(0, 64, 0);
+}
+table {
+   text-align: center;
+   width: 1000px;
+   background-color: rgb(152,251,152);
+   border-bottom: 3cm;
+   vertical-align: top;
+
+}
+th {
+   width: 150px;
+}
+.palack {
+
+border-right: 1cm;
+}
