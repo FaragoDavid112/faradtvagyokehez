@@ -16,3 +16,9 @@ th {
 
 border-right: 1cm;
 }
+#cim {
+   color: rgb(0, 100, 0);
+}
+#bala {
+   border-image: 0,5cm;
+}
